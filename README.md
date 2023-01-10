@@ -1,10 +1,12 @@
-<img align='right' src="https:///res-console.cloudinary.com/ddhkec46t/thumbnails/transform/v1/image/upload/v1673370696/https:///res-console.cloudinary.com/ddhkec46t/thumbnails/transform/v1/image/upload//v1673370696/ZGVzY2FyZ2FfemN1Nmxy/drilldown" width="300">
+<img align='right' src="https://res.cloudinary.com/ddhkec46t/image/upload/v1673370696/descarga_zcu6lr.jpg" width="300">
 
 ### Hi there 👋 I´m Mateo
 
-full stack developer.
+Full stack developer.
 
+<br>
 Pequeño proyecto para consultar el pronostico del tiempo.
+<br>
 Tecnologias utilizadas: 
     - **JavaScript**
     - **React js**
