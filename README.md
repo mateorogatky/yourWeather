@@ -5,13 +5,14 @@
 Full stack developer.
 
 <br>
-Pequeño proyecto para consultar el pronostico del tiempo.
+App para consultar el pronostico del tiempo.
 <br>
 Tecnologias utilizadas: 
-    - **JavaScript**
-    - **React js**
-    - **HTML**
-    - **CSS**
+<br>
+    - JavaScript
+    - React js
+    - HTML
+    - CSS
 <br>
 
 📫 **Contacto:**
